@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="hint_color">#A4A4A4</color>
+    <color name="text_color">#292929</color>
+
+    <color name="grey">#8B8B8B</color>
+    <color name="grey_stratified">#555555</color>
+    <color name="pin_red">#B52424</color>
+    <color name="btn_red">#DE5555</color>
+    <color name="btn_yellow">#DEC055</color>
+    <color name="btn_blue">#27A8D0</color>
+    <color name="btn_green">#55DE7B</color>
+    <color name="btn_violet">#9E29C7</color>
+    <color name="btn_pink">#EDB8B8</color>
+    <color name="btn_nblue">#2B5AB7</color>
+    <color name="btn_pgreen">#0D4A04</color>
+
+    <color name="bar_color">#E7E7E7</color>
+    <color name="icon_color">#413030</color>
+    <color name="btn_color">@color/btn_pgreen</color>
+    <color name="et_fillcolor">#F0F0F0</color>
+    <color name="et_stroke_color">#5C5C5C</color>
+    <color name="title_text_color">#000000</color>
+    <color name="tvColor">#000000</color>
+    <color name="tile_text_color">#2969F3</color>
+    <color name="tile_color">#F0F0F0</color>
+    <color name="stroke_color">#2D2A2E</color>
+    <color name="app_bg">#FAFAFA</color>
+    <color name="caption_text_color">#3E3E3E</color>
+
+    <color name="bg_color">#FAFAFA</color>
+
+    <color name="text_color_Btn">#FFFFFF</color>
+    <color name="text_color_subhead">#6A6A6A</color>
+</resources>
